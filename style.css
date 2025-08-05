@@ -33,3 +33,16 @@ video {
     font-size: 13px;
     color: #e0dfdf;
 }
+header {
+  background-color:#30b27f;
+  color:#005954;
+  font-family: 'chewy', 'Vogue';
+  texte-align: center;
+  height: 100px;
+  margin: 0;
+  border: none;
+  width: 100%;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+}
